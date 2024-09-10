@@ -1,4 +1,4 @@
- **Aplicação: Busca de Atletas do Corinthians**
+ **Aplicação: Busca de Atletas do Corinthians**  IMERSÃO DEV + GOOGLE GEMINI
 
 **Descrição:**
 
